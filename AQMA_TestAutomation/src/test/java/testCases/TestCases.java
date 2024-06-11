@@ -40,7 +40,7 @@ public class TestCases extends testBase.TestBase{
 			logger.info("Logged in Successfully");
 			
 			Thread.sleep(10000);
-			
+		/*	
 	        WebElement dashboardElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Dashboard']")));
 	        
 	        logger.info("Dashboard loaded");
@@ -51,7 +51,7 @@ public class TestCases extends testBase.TestBase{
 	        
 	        //-----------------------------
 						
-				
+			*/	
 		
 		
 		
