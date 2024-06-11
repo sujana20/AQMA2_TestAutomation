@@ -40,6 +40,8 @@ public class TestCases extends testBase.TestBase{
 			logger.info("Logged in Successfully");
 			
 	        WebElement dashboardElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Dashboard']")));
+	        
+	        logger.info("Dashboard loaded");
 	        // Retrieve the text from the element and print it
 	        String dashboardText = dashboardElement.getText();
 	        logger.info("1st Menu option :" +dashboardText);
