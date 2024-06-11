@@ -139,7 +139,8 @@ public class TestCases extends testBase.TestBase{
 			loginAs.qa("admin", "12345678");
 			logger.info("Logged in Successfully");
 			takeScreenshot.save("SuccessfulLogin");
-			
+
+			Thread.sleep(15000);
 			//3. Configuration
 
             logger.info("------------------------------------------------------------");
