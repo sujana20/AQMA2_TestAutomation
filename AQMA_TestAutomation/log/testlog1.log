@@ -838,3 +838,68 @@
 2024-06-11 17:36:59,426 [main] INFO Frame1 - url Loaded
 2024-06-11 17:37:00,069 [main] INFO Frame1 - maximized Browser window and added waits
 2024-06-11 17:37:00,075 [main] INFO Frame1 - TestCase Execution started_(Config_Device)
+2024-06-11 17:51:21,958 [main] INFO Frame1 - Logger Started
+2024-06-11 17:51:26,932 [main] INFO Frame1 - Chrome launched
+2024-06-11 17:51:28,726 [main] INFO Frame1 - url Loaded
+2024-06-11 17:51:29,118 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 17:51:32,740 [main] INFO Frame1 - Logged in Successfully
+2024-06-11 17:51:32,925 [main] INFO Frame1 - Screenshot Taken
+2024-06-11 17:51:34,281 [main] INFO Frame1 - Chrome launched
+2024-06-11 17:51:36,117 [main] INFO Frame1 - url Loaded
+2024-06-11 17:51:36,286 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 17:51:39,916 [main] INFO Frame1 - Logged in Successfully
+2024-06-11 17:51:40,091 [main] INFO Frame1 - 1st Menu option :Dashboard
+2024-06-11 17:51:44,146 [main] INFO Frame1 - Table name : Measurement Site Status
+2024-06-11 17:51:48,212 [main] INFO Frame1 - Header 1 validated successfully: Measurement Site
+2024-06-11 17:51:48,226 [main] INFO Frame1 - Header 2 validated successfully: Station Label
+2024-06-11 17:51:48,241 [main] INFO Frame1 - Header 3 validated successfully: Communication
+2024-06-11 17:51:48,256 [main] INFO Frame1 - Header 4 validated successfully: Alarms
+2024-06-11 17:51:48,274 [main] INFO Frame1 - Header 5 validated successfully: Failures
+2024-06-11 17:51:48,296 [main] INFO Frame1 - Header 6 validated successfully: Last Data
+2024-06-11 17:51:48,309 [main] INFO Frame1 - Header 7 validated successfully: Next Polling
+2024-06-11 17:51:48,322 [main] INFO Frame1 - Header 8 validated successfully: Communication Status
+2024-06-11 17:51:56,530 [main] INFO Frame1 - Is the column in ascending order? : true
+2024-06-11 17:51:56,691 [main] INFO Frame1 - Screenshot Taken
+2024-06-11 17:51:56,692 [main] INFO Frame1 - Dashboard working as expected
+2024-06-11 17:51:58,512 [main] INFO Frame1 - Chrome launched
+2024-06-11 17:52:00,597 [main] INFO Frame1 - url Loaded
+2024-06-11 17:52:00,810 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 18:08:34,757 [main] INFO Frame1 - Logger Started
+2024-06-11 18:08:41,959 [main] INFO Frame1 - Chrome launched
+2024-06-11 18:08:43,811 [main] INFO Frame1 - url Loaded
+2024-06-11 18:08:44,036 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 18:08:47,720 [main] INFO Frame1 - Logged in Successfully
+2024-06-11 18:08:47,931 [main] INFO Frame1 - Screenshot Taken
+2024-06-11 18:08:49,775 [main] INFO Frame1 - Chrome launched
+2024-06-11 18:08:51,805 [main] INFO Frame1 - url Loaded
+2024-06-11 18:08:52,004 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 18:08:55,063 [main] INFO Frame1 - Logged in Successfully
+2024-06-11 18:08:55,280 [main] INFO Frame1 - 1st Menu option :Dashboard
+2024-06-11 18:08:59,396 [main] INFO Frame1 - Table name : Measurement Site Status
+2024-06-11 18:09:03,546 [main] INFO Frame1 - Header 1 validated successfully: Measurement Site
+2024-06-11 18:09:03,572 [main] INFO Frame1 - Header 2 validated successfully: Station Label
+2024-06-11 18:09:03,592 [main] INFO Frame1 - Header 3 validated successfully: Communication
+2024-06-11 18:09:03,612 [main] INFO Frame1 - Header 4 validated successfully: Alarms
+2024-06-11 18:09:03,638 [main] INFO Frame1 - Header 5 validated successfully: Failures
+2024-06-11 18:09:03,661 [main] INFO Frame1 - Header 6 validated successfully: Last Data
+2024-06-11 18:09:03,683 [main] INFO Frame1 - Header 7 validated successfully: Next Polling
+2024-06-11 18:09:03,704 [main] INFO Frame1 - Header 8 validated successfully: Communication Status
+2024-06-11 18:09:11,923 [main] INFO Frame1 - Is the column in ascending order? : true
+2024-06-11 18:09:12,059 [main] INFO Frame1 - Screenshot Taken
+2024-06-11 18:09:12,060 [main] INFO Frame1 - Dashboard working as expected
+2024-06-11 18:09:13,889 [main] INFO Frame1 - Chrome launched
+2024-06-11 18:09:16,053 [main] INFO Frame1 - url Loaded
+2024-06-11 18:09:16,220 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-11 18:09:19,947 [main] INFO Frame1 - Logged in Successfully
+2024-06-11 18:09:20,104 [main] INFO Frame1 - Screenshot Taken
+2024-06-11 18:09:20,105 [main] INFO Frame1 - ------------------------------------------------------------
+2024-06-11 18:09:20,175 [main] INFO Frame1 - 2nd Menu option :Configuration
+2024-06-11 18:09:20,267 [main] INFO Frame1 - Configuration Menu succesfully clicked 
+2024-06-11 18:09:26,276 [main] INFO Frame1 - ------------------------------------------------------------
+2024-06-11 18:09:26,365 [main] INFO Frame1 -  First Sub Menu under Configuration : Station
+2024-06-11 18:09:32,544 [main] INFO Frame1 -  Table Name : Stations List
+2024-06-11 18:09:35,691 [main] INFO Frame1 - Header 1 validated successfully: Station Name
+2024-06-11 18:09:35,706 [main] INFO Frame1 - Header 2 validated successfully: Description
+2024-06-11 18:09:35,721 [main] INFO Frame1 - Header 3 validated successfully: 
+2024-06-11 18:09:35,722 [main] INFO Frame1 - ------------------------------------------------------------
+2024-06-11 18:09:35,841 [main] INFO Frame1 -  Stations List Search icon Clickable

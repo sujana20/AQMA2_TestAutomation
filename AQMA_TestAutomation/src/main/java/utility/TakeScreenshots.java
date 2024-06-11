@@ -14,7 +14,7 @@ import testBase.TestBase;
 
 
 public class TakeScreenshots extends TestBase{
-	static String path = "src\\test\\java\\testData\\Test Screenshots\\";
+	static String path = System.getProperty("user.dir") + "\\src\\test\\java\\testData\\Test Screenshots\\";
 	
 	public void save(String filename) {
 		
