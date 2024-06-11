@@ -144,7 +144,7 @@ public class TestCases extends testBase.TestBase{
 			//3. Configuration
 
             logger.info("------------------------------------------------------------");
-	   Thread.sleep(15000);
+	   Thread.sleep(25000);
             WebElement ConfigurationElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Configuration']")));
 
             // Retrieve the text from the element and print it
