@@ -144,7 +144,7 @@ public class TestCases extends testBase.TestBase{
 			//3. Configuration
 
             logger.info("------------------------------------------------------------");
-
+	   Thread.sleep(15000);
             WebElement ConfigurationElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Configuration']")));
 
             // Retrieve the text from the element and print it
@@ -159,8 +159,8 @@ public class TestCases extends testBase.TestBase{
             Thread.sleep(6000);
 
             logger.info("------------------------------------------------------------");
-
-
+           Thread.sleep(15000);
+			
             //------3.1 Station menu verification //--------
 
 
@@ -172,7 +172,7 @@ public class TestCases extends testBase.TestBase{
             logger.info(" First Sub Menu under Configuration : " + stationText);
             stationElement.click();
             
-            Thread.sleep(6000);
+            Thread.sleep(10000);
 
      //----------------------------------------------------------------
             WebElement stationListElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[text()='Stations List']")));
