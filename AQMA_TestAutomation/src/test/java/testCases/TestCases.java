@@ -150,7 +150,8 @@ public class TestCases extends testBase.TestBase{
             logger.info("------------------------------------------------------------");
 	   Thread.sleep(25000);
             WebElement ConfigurationElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Configuration']")));
-
+		 Thread.sleep(25000);
+		logger.info("clicked on config");	
             // Retrieve the text from the element and print it
             String ConfigurationText = ConfigurationElement.getText();
             logger.info("2nd Menu option :" + ConfigurationText);
